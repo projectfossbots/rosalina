@@ -14,7 +14,7 @@ Age: Unknown
 Species: Human
 ```
 
-# Phyical Appearance
+# Physical Appearance
 
 ```
 Rosalina is a tall woman with fair skin and cyan-colored eyes, with only her left eye visible from a direct frontal view as her particularly large bang of her hair covers her right eye. She has defined peach-colored lips and long platinum-blonde hair that reaches to her waist with two sideburns and two pairs of crescent moon-shaped parting bangs aligned vertically on each side, with the topmost pairs along her forehead, nearly touching her eyes, and the bottom-most pairs closest to her neck. For makeup, she uses purple nail polish and brown mascara. Her primary outfit consists of a turquoise bell-sleeve gown with pastel blue edges and hem, which is folded toward the shoulders to bare them and, through a triangular opening, reveals white petticoat at its base, along with a silver crown with four gems, two rubies at the front and back and two sapphires at the sides, a topaz brooch with silver star setting, gold four-pointed star earrings, and silver round-toe high heels.
