@@ -1,6 +1,8 @@
-# Project FOSSBots - Rosalina Chatbot
+# Project FOSSBots - Rosalina Chatbot (Archive)
 "Because the people of the GNU and FOSS communities should enjoy Chatbots too!"
 #### // !!! Remember to give credit! !!! \\\
+
+#### To prevent someday getting into trouble with Nintendo, I am discontinuing production of this Chatbot. The Chatbot on Janitor.AI will be deleted, and you will need to use this repository to make your own thing of this Chatbot. Remember to credit me when doing so.
 
 - Version 1.0 (BETA) - Public Version
 - SAFE = SEMI
